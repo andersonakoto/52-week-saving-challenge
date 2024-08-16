@@ -85,7 +85,7 @@ fun WeekSavingsApp(savingsViewModel: SavingsViewModel, savingsData: SavingsData)
 //            }
 //
 //        LazyColumn(
-//            modifier = Modifier.fillMaxSize()
+//            modifier = Modifier.height(height = 100.dp)
 //        ) {
 //            items(52) { index ->
 //                val week = index + 1
